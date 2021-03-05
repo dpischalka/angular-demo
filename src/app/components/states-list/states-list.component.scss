@@ -1,0 +1,13 @@
+.states-table {
+  width: 100%;
+  td {
+    word-break: break-all;
+    padding: 5px 10px;
+
+    &.mat-column-covid19Site {
+      max-width: 300px;
+    }
+  }
+
+
+}
