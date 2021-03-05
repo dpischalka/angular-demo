@@ -1,0 +1,14 @@
+@import "variables";
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  max-width: $max-page-width;
+  margin: 30px 0;
+}
+
+.main-title {
+  text-align: center;
+  width: 100%;
+}
